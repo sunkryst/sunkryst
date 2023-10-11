@@ -1,7 +1,9 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fprogramming%2F3&psig=AOvVaw2mcVHR-QRWHfGoS_CIHeUE&ust=1697075730859000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNiy0_Lx7IEDFQAAAAAdAAAAABAJ)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/sunkryst)
 <h1 align="center">Hi 👋, I'm Sunil Chowdary Vejendla</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2nH4KJIHhqd6gKpvFOsPic&ust=1697075533951000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKif1ZTx7IEDFQAAAAAdAAAAABAJ”>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunkryst&label=Profile%20views&color=0e75b6&style=flat" alt="sunkryst" /> </p>
+
 - 🌱 I’m currently learning **machine learning , cryptography ,Distributed Database systems**
 
 - 📝 I regularly write articles on [https://www.quora.com/profile/Vejendla-Sunil](https://www.quora.com/profile/Vejendla-Sunil)
@@ -33,8 +35,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/vejendlasuc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/vejendlasuc" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunkryst&show_icons=true&locale=en&layout=compact" alt="sunkryst" /></p>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunkryst&show_icons=true&locale=en" alt="sunkryst" /></p>
 
