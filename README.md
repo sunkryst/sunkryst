@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **machine learning , cryptography ,Distributed Database systems**
 
-- 📝 I regularly write articles on [https://www.quora.com/profile/Vejendla-Sunil](https://www.quora.com/profile/Vejendla-Sunil)
-
 - 💬 Ask me about **Spring Boot , Spark**
 
 - 📫 How to reach me **vejendlasunil@gmail.com**
